@@ -1,0 +1,91 @@
+.header {
+    display: flex;
+}
+
+.logo>img {
+
+    height: 150px;
+}
+
+.header {
+    margin-left: 30px;
+
+}
+
+h1 {
+    margin-left: 50px;
+}
+
+.list>li {
+    padding: 20px;
+    display: inline-block;
+    margin-left: 50px;
+    font-size: larger;
+}
+
+.hint {
+    background: rgb(26, 154, 107);
+    background: linear-gradient(90deg, rgba(26, 154, 107, 0.8633578431372549) 0%, rgba(222, 227, 224, 1) 50%, rgba(232, 228, 223, 1) 100%);
+    text-align: center;
+    padding: 10px;
+    margin: 20px 0;
+}
+
+a {
+    color: rgb(5, 139, 139);
+
+}
+
+.one {
+    border: 1px solid pink;
+    background-color: rgb(185, 177, 215);
+    border-radius: 20px;
+    width: 300px;
+    height: auto;
+    text-align: center;
+    margin: 10px 20px 5px 5px;
+    padding: 20px;
+}
+
+.two {
+    border: 1px solid pink;
+    background-color: pink;
+    border-radius: 20px;
+    margin: 10px 20px 5px 2px;
+    width: 300px;
+    height: auto;
+    text-align: center;
+    padding: 20px;
+}
+
+.three {
+    border: 1px solid pink;
+    background-color: rgb(196, 135, 196);
+    border-radius: 20px;
+    width: 300px;
+    margin: 10px 20px 5px 2px;
+    height: auto;
+    text-align: center;
+    padding: 20px;
+
+
+}
+
+.main {
+    display: flex;
+    text-align: center;
+    margin-left: 6%;
+}
+
+.text {
+    color: green;
+    margin-top: 65px;
+    margin-left: 100px;
+
+}
+
+.head {
+    color: grey;
+    margin-top: 60px;
+    font-size: 25px;
+}
